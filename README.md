@@ -4,6 +4,20 @@ A beginner-friendly implementation of Retrieval-Augmented Generation (RAG) built
 
 This project has been upgraded with a **Streamlit Web UI**, allowing you to dynamically upload documents directly from your browser, watch the backend chunk and embed them in real-time, and chat with them instantly!
 
+
+## 🌐 Live Demo
+
+Try the application directly in your browser without any local setup:
+
+**🔗 Streamlit App:** https://applied-rag-pipeline-fkrtb5k98zdgnstdnltxug.streamlit.app/
+
+### Features
+- 📄 Upload PDF, TXT, and DOCX documents
+- ✂️ Automatic document chunking
+- 🧠 HuggingFace embeddings with FAISS vector search
+- 💬 Chat with your uploaded documents using Groq (Llama 3)
+- ⚡ Real-time document processing and retrieval
+
 ---
 
 ## What is RAG and Why Does It Matter?
