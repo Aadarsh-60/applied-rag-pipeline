@@ -1,4 +1,4 @@
-# RAG from Scratch (Streamlit Web UI Edition) 🔍
+# RAG from Scratch 
 
 A beginner-friendly implementation of Retrieval-Augmented Generation (RAG) built step-by-step using LangChain, FAISS, HuggingFace embeddings, and **Groq (Llama 3)**. 
 
